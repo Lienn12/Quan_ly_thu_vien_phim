@@ -141,7 +141,7 @@
             this.button1.BackColor = System.Drawing.Color.LightSkyBlue;
             this.button1.FlatAppearance.BorderColor = System.Drawing.Color.LightSkyBlue;
             this.button1.ForeColor = System.Drawing.Color.LightSkyBlue;
-            this.button1.Image = global::Quan_ly_thu_vien_phim.Properties.Resources.add_to_playlist__1_;
+
             this.button1.Location = new System.Drawing.Point(839, 141);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(39, 37);
@@ -150,7 +150,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::Quan_ly_thu_vien_phim.Properties.Resources.icons8_find_30;
+
             this.pictureBox1.Location = new System.Drawing.Point(69, 145);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(31, 33);
